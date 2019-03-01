@@ -11,6 +11,8 @@ namespace WCFAirthmeticConsoleApplication
         static void Main(string[] args)
         {
             // Creating Proxy for the MyService 
+
+            // Suhail 
             Console.WriteLine("Client calling the service...");
             Console.WriteLine("Hello Ram");
             Console.Read();
