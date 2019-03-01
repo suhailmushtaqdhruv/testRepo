@@ -1,0 +1,13 @@
+D:\Suhail\WCF\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\WCFAirthmeticConsoleApplication\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.pdb
+C:\Users\admin\Source\Repos\test\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.exe.config
+C:\Users\admin\Source\Repos\test\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.exe
+C:\Users\admin\Source\Repos\test\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.pdb
+C:\Users\admin\Source\Repos\testRepo\WCFAirthmeticConsoleApplication\bin\Debug\WCFAirthmeticConsoleApplication.exe.config
+C:\Users\admin\Source\Repos\testRepo\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.exe
+C:\Users\admin\Source\Repos\testRepo\WCFAirthmeticConsoleApplication\obj\Debug\WCFAirthmeticConsoleApplication.pdb
